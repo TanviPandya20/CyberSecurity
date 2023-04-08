@@ -38,5 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/68326118/230722823-518796eb-b744-4391-bc96-11ff027d068f.png)
 
+### Connecting both the sockets via ipsec.conf
+
 ![image](https://user-images.githubusercontent.com/68326118/230723117-26becce3-1694-4a34-a3db-cf0a29865443.png)
 
